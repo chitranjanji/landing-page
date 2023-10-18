@@ -1,0 +1,178 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Gilroy";
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: #fef9ed;
+    overflow: hidden;
+}
+ #top{
+    width: 35%;
+    height: 15%;
+    left: 10%;
+    position: absolute;
+    background-image: url( https://i.pinimg.com/564x/7b/0c/46/7b0c468320bba61362c01fd9d0365e69.jpg);
+    background-size: cover;
+    background-position: center;
+ }
+ #btm{
+    width: 35%;
+    height: 80%;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    background-image: url( https://i.pinimg.com/736x/7e/5b/dd/7e5bdd7ea60bf3c1912411c54f5eb49b.jpg);
+    background-size: cover;
+    background-position: center; 
+    z-index: 99;
+ 
+ }
+ #main>h1{
+     font-size: 600px;
+     left: 13%;
+     position: relative;
+     opacity: 0.1;
+ }
+ #main>h2{
+    position: absolute;
+    top: 40%;
+    left: 43%;
+    font-size: 100px;
+    z-index: 999;
+ }
+ #main>p{
+    position: absolute;
+    top: 58%;
+    left: 48%;
+    
+ }
+ #main #a{
+    position: absolute;
+    top: 85%;
+    left: 60%;
+    font-weight: 500;
+}
+#main #b{
+    position: absolute;
+    top: 85%;
+    left: 70%;
+    font-weight: 500;
+}
+#main #c{
+    position: absolute;
+    top: 85%;
+    left: 80%;
+    font-weight: 500;
+}
+#main #l{
+    position: absolute;
+    top: 67%;
+    left: 65%;
+}
+#main #z{
+    position: absolute;
+    top: 7%;
+    left: 85%;
+    background-color: black;
+    color: #fef9ed;
+}
+#main #l1{
+    width: 2px;
+    height: 30%;
+    background-color: black;
+    left: 5%;
+    top: 45%;
+    position: absolute;
+    opacity: 0.3;
+}
+#main #l2{
+    width: 2px;
+    height: 10%;
+    background-color: black;
+    left: 5%;
+    top: 90%;
+    position: absolute;
+    opacity: 0.3;
+}
+#main #l3{
+    width: 2px;
+    height: 5%;
+    background-color: black;
+    left: 5%;
+    top: 0%;
+    position: absolute;
+    opacity: 0.3;
+}
+#main #l4{
+    width: 2px;
+    height: 7%;
+    background-color: black;
+    left: 5%;
+    top: 7%;
+    position: absolute;
+}
+#main #l5{
+    width: 2px;
+    height: 5%;
+    background-color: black;
+    left: 5%;
+    top: 16%;
+    position: absolute;
+}
+#main #l6{
+    width: 2px;
+    height: 3%;
+    background-color: black;
+    left: 5%;
+    top: 23%;
+    position: absolute;
+}
+#main #l7{
+    width: 2px;
+    height: 3%;
+    background-color: black;
+    left: 5%;
+    top: 28%;
+    position: absolute;
+}
+#main #l8{
+    width: 2px;
+    height: 5%;
+    background-color: black;
+    left: 5%;
+    top: 33%;
+    position: absolute;
+    opacity: 0.3;
+}
+#main #x{
+    left: 4%;
+    top: 39%;
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+}
+#main #y{
+    left: 4%;
+    top: 77%;
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+}
+#main #r{
+    left: 4%;
+    top: 83%;
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+}
+
+
+  
